@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnresolvableTag -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--suppress AndroidUnresolvableTag -->
+    <solid
+        android:color="#CAFFE6" />
+    <!--suppress AndroidUnresolvableTag -->
+    <stroke
+        android:color="#7BFA96"
+        android:width="2dp" />
+    <!--suppress AndroidUnresolvableTag -->
+    <corners
+        android:radius="10dp"/>
+
+</shape>
